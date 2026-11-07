@@ -8,11 +8,16 @@
 
 ### [⬇ حمّل التعريب — النسخة اليدوية (21 ميجابايت)](https://github.com/AbudiHadi/silver-pines-arabic/raw/main/download/SilverPines-Arabic.zip)
 
-<sub>الإصدار 1.0.2 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/silver-pines-arabic/releases/latest)</sub>
+<sub>الإصدار 1.0.3 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/silver-pines-arabic/releases/latest)</sub>
 
 </div>
 
 ---
+
+## ما الجديد في 1.0.3
+
+- إصلاح رقم النزيل في سجل الموتيل: كان الرقم يظهر مقلوبا (مثلا 75784 بدل 48757). الرقم الآن يظهر بالترتيب الصحيح ويمكن إدخاله كما هو.
+- لنفس تحديث اللعبة (Steam build 26489514).
 
 ## ما الجديد في 1.0.2
 
